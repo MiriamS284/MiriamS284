@@ -1,6 +1,6 @@
 # Hi, I’m Miriam 👋
 
-A linguist turned web developer with a passion for creating digital experiences that connect people globally. My journey began with a fascination for languages — both spoken and programming — and evolved into a deep love for building websites and applications that bridge gaps and foster communication.
+A linguist turned web developer with a passion for creating digital experiences that connect people globally, my journey began with a fascination for languages—both spoken and programming—and evolved into a deep love for building websites and applications that bridge gaps and foster communication. I strive to translate human language and stories into signs and symbols, transforming complex ideas into accessible and engaging digital narratives that resonate across cultural boundaries.
 
 Over the years, I’ve honed my skills with a strong focus on the **MERN stack** (MongoDB, Express, React, and Node.js), enabling me to create seamless, full-stack web applications. I’ve been working with **React** and **Next.js** for the past two years, developing dynamic and highly interactive user interfaces.
 
