@@ -9,7 +9,7 @@ Over the years, I’ve honed my skills with a strong focus on the **MERN stack**
 ### 🌟 Notable Projects
 
 1. **[Personal Trainer Application](https://personaltrainer-k-gerth.vercel.app/)**  
-   A custom management system for trainers and clients with an online customer portal. Built using **React**, **Next.js**, and **MongoDB**, this project focuses on creating a user-friendly experience for managing client progress, scheduling, and communication.  
+   A custom management system for trainers and clients with an online customer portal. Built using **React**, **Next.js**, and **Supabase**, this project focuses on creating a user-friendly experience for managing client progress, scheduling, and communication.  
 
 2. **[Hotel Management App](https://the-wild-oasis-website-demo-iota.vercel.app/)**  
    A lightweight hotel management system to explore and enhance **React** and **Next.js** skills. This app allows users to manage reservations, check-ins, and payments efficiently.  
