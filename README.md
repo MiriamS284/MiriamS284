@@ -8,8 +8,23 @@ Over the years, I’ve honed my skills with a strong focus on the **MERN stack**
 
 ### 🌟 Notable Projects
 
-1. **[Personal Trainer Application]([https://karsten-gerth.de/)**  
-   A custom management system for trainers and clients with an online customer portal. Built using **React**, **Next.js**, and **Supabase**, this project focuses on creating a user-friendly experience for managing client progress, scheduling, and communication.  
+1. **[Personal Trainer Management Platform](https://github.com/MiriamS284/pt-management-showcase)**  
+   A comprehensive B2B SaaS solution for trainers and clients with an intelligent management system and online customer portal. 
+   
+   **Features:**
+   - 👥 Complete client management system
+   - 📋 Intelligent plan creation (Training & Nutrition)
+   - 🎯 Smart Goals tracking with SMART-framework
+   - 📊 Progress analytics & visualization
+   - 📄 PDF document generation (Invoices, Offers)
+   - 📱 Responsive mobile-first customer portal
+   - 💰 Affiliate recommendation system
+   - ✍️ Integrated blog platform
+   
+   **Tech Stack:** Next.js 15, React 19, Supabase (PostgreSQL), Tailwind CSS, Resend (Email API)
+   
+   **Live Demo:** [karsten-gerth.de](https://karsten-gerth.de/)  
+   **Full Documentation:** [View README](https://github.com/MiriamS284/pt-management-showcase#readme)
 
 2. **[Hotel Management App](https://the-wild-oasis-website-demo-iota.vercel.app/)**  
    A lightweight hotel management system to explore and enhance **React** and **Next.js** skills. This app allows users to manage reservations, check-ins, and payments efficiently.  
