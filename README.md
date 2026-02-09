@@ -26,10 +26,26 @@ Over the years, I’ve honed my skills with a strong focus on the **MERN stack**
    **Live Demo:** [karsten-gerth.de](https://karsten-gerth.de/)  
    **Full Documentation:** [View README](https://github.com/MiriamS284/pt-management-showcase#readme)
 
-2. **[Hotel Management App](https://the-wild-oasis-website-demo-iota.vercel.app/)**  
+
+2. **[Developer Portfolio with Digital Garden](https://github.com/MiriamS284/portfolioWebDev)**  
+   A modern, minimalist portfolio featuring a digital garden concept—a living space for technical notes, code snippets, and evolving ideas. Built with a decoupled architecture using Next.js 15 for the frontend and Sanity CMS for flexible content management.
+
+   **Features:**
+   - 🌱 Digital garden for learning in public
+   - 📝 Code snippets with syntax highlighting  
+   - 💡 Evolving technical insights and thoughts
+   - 🎨 Clean, minimalist design inspired by modern developer portfolios
+   - ⚡ Server Components for optimal performance
+   - 🔄 Real-time content updates via Sanity CMS
+
+   **Tech Stack:** Next.js 15, React 19, Sanity CMS, Tailwind CSS
+   
+   **CMS Backend:** [Sanity Studio](https://github.com/MiriamS284/portfolio-sanity-cms)
+
+4. **[Hotel Management App](https://the-wild-oasis-website-demo-iota.vercel.app/)**  
    A lightweight hotel management system to explore and enhance **React** and **Next.js** skills. This app allows users to manage reservations, check-ins, and payments efficiently.  
 
-3. **[LinkedGen - AI-Powered Social Media Content Generator](https://github.com/MiriamS284/linkedGen)**  
+5. **[LinkedGen - AI-Powered Social Media Content Generator](https://github.com/MiriamS284/linkedGen)**  
    An AI-driven application to generate personalized social media posts using **OpenAI API**. Users can input their preferences, and the app generates tailored posts.  
 
 ---
