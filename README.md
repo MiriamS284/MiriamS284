@@ -106,7 +106,7 @@ Over the years, I’ve honed my skills with a strong focus on the **MERN stack**
 ### 💼 Portfolio & Contact
 
 Check out my portfolio to see more of my work and skills:  
-- **🌐 [Portfolio](https://webdev-portfolio-sigma.vercel.app/)**  
+- **🌐 [Portfolio](https://miriamsparbrod.dev/)**  
 
 Connect with me on LinkedIn:  
 - **[LinkedIn](https://www.linkedin.com/in/miriam-sparbrod/)**  
